@@ -2,8 +2,8 @@
   "title": "san randry linux note",
   "url": "",
   "logo": {
-    "light": "/logo.png",
-    "dark": "/logo.png"
+    "light": "/linux-note/logo.png",
+    "dark": "/linux-note/logo.png"
   },
   "github": "/sanrandry/linux-note.git",
   "twitter": "@sanRandry"
